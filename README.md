@@ -1,6 +1,6 @@
 # Get-It-Done
 A group task board tracking progress
-# Get-It-Done
+
 
 ## Description
 Working in the age of remote work, having team synergy can be difficult. This team-oriented TO-DO organizor is the key to Get-It-Done!
@@ -16,17 +16,8 @@ Working in the age of remote work, having team synergy can be difficult. This te
 
 ```md
 ![pic](assets/getItDone1.png)
-```
-
-```md
 ![pic2](assets/getItDone2.png)
-```
-
-```md
 ![pic3](assets/getItDone3.png)
-```
-
-```md
 ![pic4](assets/getItDone4.png)
 ```
 
