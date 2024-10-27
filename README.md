@@ -13,10 +13,19 @@ Working in the age of remote work, having team synergy can be difficult. This te
 4)enjoy!!
 
 ## Usage
-(assets/getItDone1.png)
-(assets/getItDone2.png)
-(assets/getItDone3.png)
-(assets/getItDone3.png)
-(assets/getItDone4.png)
-  
+```md
+!(assets/getItDone1.png)
+```
+```md
+!(assets/getItDone2.png)
+```
+```md
+!(assets/getItDone3.png)
+```
+```md
+!(assets/getItDone3.png)
+```
+```md
+!(assets/getItDone4.png)
+```
 
