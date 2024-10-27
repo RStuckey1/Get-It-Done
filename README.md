@@ -14,14 +14,14 @@ Working in the age of remote work, having team synergy can be difficult. This te
 
 ## Usage
 ``md
-  ![getitdone1](assets/getitdone1.png)
+  ![getItDone1](assets/getItDone1.png)
 ``md
-  ![getitdone2](assets/getitdone2.png)
+  ![getitdone2](assets/getItDone2.png)
   ``md
-  ![getitdone3](assets/getitdone3.png)
+  ![getitdone3](assets/getItDone3.png)
   ``md
-  ![getitdone3](assets/getitdone3.png)
+  ![getitdone3](assets/getItDone3.png)
   ``md
-  ![getitdone4](assets/getitdone4.png)
+  ![getitdone4](assets/getItDone4.png)
   
 
